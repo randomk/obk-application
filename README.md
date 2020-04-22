@@ -1,5 +1,6 @@
 # banking-application
-Simple banking application to Open Bank account and process payments for more information read javadocs
+Simple banking application to Open Bank account and process payments 
+for more information read [javadocs](https://randomk.github.io/obk-application/)
 
 ### Frameworks used
 - Jersey for API and HK2 CDI
