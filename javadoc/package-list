@@ -1,0 +1,10 @@
+com.banking
+com.banking.account.exception
+com.banking.account.repository
+com.banking.account.resource
+com.banking.account.service
+com.banking.payment.exception
+com.banking.payment.repository
+com.banking.payment.resource
+com.banking.payment.service
+integration.com.banking
